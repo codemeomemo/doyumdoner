@@ -10,4 +10,7 @@ body{
   display: flex;
 }
 
+h1{font-size:20px; color:tomato;}
+p{font-size:16px; color:ariel;}
+
 
