@@ -8,6 +8,7 @@
 body{
   
   background-image: url("https://img.restaurantguru.com/c895-Doyum-Bufe-Bursa-interior.jpg");
+  background-size:200px;
   align-items: center;
   display: flex;
 }
