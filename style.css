@@ -8,7 +8,7 @@ body{
     align-items: center;
     
 }
-.toper{align-self: center; background-color: brown; text-align: center;}
+.toper{align-self: center; background-color: black; text-align: center;}
 .navbar{display: flex; background: orange;}
 .logo1{
     width: 200px; height: 100px; margin-left: 0%;
@@ -28,7 +28,7 @@ padding:0.6rem;
 
 .pics{ display: list-item; text-decoration: none; width: 350px;}
 .pics img{border-radius: 25px;}
-.picsText{color: tomato;text-transform: capitalize;}
+.picsText{color: black;text-transform: capitalize;}
 
 
 .gallery{
