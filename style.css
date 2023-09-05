@@ -8,7 +8,7 @@ body{
     align-items: center;
     
 }
-.toper{align-self: center; background-color: black; text-align: center;}
+.toper{align-self: center; background-color: pink; text-align: center;}
 .navbar{display: flex; background: orange;}
 .logo1{
     width: 200px; height: 100px; margin-left: 0%;
